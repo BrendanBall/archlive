@@ -1,0 +1,7 @@
+version: "3.3"
+services:
+  arch:
+    image: espada/archlive
+    build:
+      context: .
+      dockerfile: Dockerfile

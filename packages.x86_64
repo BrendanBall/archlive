@@ -1,0 +1,9 @@
+xorg
+xorg-xinit
+xf86-video-intel
+i3
+gnome-terminal
+firefox
+networkmanager
+ripgrep
+zsh
